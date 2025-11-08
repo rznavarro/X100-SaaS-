@@ -13,7 +13,7 @@ export const softwareCatalog: Software[] = [
     nombre: "Dental Simple",
     descripcion: "Agenda de pacientes y fichas clínicas para consultorios dentales.",
     categoria: "SALUD",
-    url: "https://example.com/dental-simple"
+    url: "https://dentalsimple.vercel.app/"
   },
   {
     id: "2",
