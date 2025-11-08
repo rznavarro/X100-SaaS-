@@ -20,7 +20,7 @@ export const softwareCatalog: Software[] = [
     nombre: "FisioTrack",
     descripcion: "Registro de pacientes, sesiones y evolución de tratamientos de fisioterapia.",
     categoria: "SALUD",
-    url: "https://example.com/fisiotrack"
+    url: "https://fisiotrack.vercel.app/dashboard"
   },
   {
     id: "3",
