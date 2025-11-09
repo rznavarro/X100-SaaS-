@@ -31,7 +31,7 @@ export const softwareCatalog: Software[] = [
     nombre: "PsyNotes",
     descripcion: "Gestión de citas y notas de sesión para psicólogos y terapeutas.",
     categoria: "SALUD",
-    url: "https://example.com/psynotes"
+    url: "https://psynotes-beryl.vercel.app/login"
   },
   {
     id: "4",
