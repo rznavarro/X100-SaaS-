@@ -1,3 +1,7 @@
+/**
+ * Software catalog for X100 SaaS platform
+ * Updated on 2025-11-09
+ */
 export interface Software {
   id: string;
   nombre: string;
